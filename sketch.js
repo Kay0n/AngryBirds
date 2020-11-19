@@ -25,7 +25,7 @@ function setup() {
 
 
   // add bodies
-  var size = 10;
+  var size = 50;
 
   stack = Composites.stack(500, 280, 5, 6, 10, 0, function(x, y) {
     body = addRect(x,y,size,size)
@@ -37,8 +37,8 @@ function setup() {
 
 
   // create two boxes and ground
-  boxA = addRect(400, 200, 80, 80);
-  boxB = addRect(400, 50, 80, 80);
+  boxA = addRect(550, 200, 50, 80);
+  boxB = addRect(560, 50, 50, 80);
   ground = addRect(400, 610, 20810, 60, {
     isStatic: true
   });

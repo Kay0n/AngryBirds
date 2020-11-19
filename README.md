@@ -1,2 +1,2 @@
-# Javascript Experiments
-This is a repo housing my car doging game called PhaseShift. It is a generic obstacle doging game, featuring basic player movements, generated obstacles, score tracking and powerups/powerdowns. It also has some unfinished code for a snakelike game.
+# Angry Birds with P5 and Matter
+This is a repo housing a school project. The intent was to create a p5.js and matter.js hybrid that simulated angry birds while allowing the user to manupulate physical properties of the world as an educational game.
